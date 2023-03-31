@@ -1,0 +1,4 @@
+.skills__lista {
+    flex-direction: row;
+    gap: 2rem;
+}

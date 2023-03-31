@@ -1,0 +1,6 @@
+.sobremi {
+    flex-direction: column;
+    gap: 10pt;
+    padding: 2rem 12rem;
+    background: var(--background-verde);
+}

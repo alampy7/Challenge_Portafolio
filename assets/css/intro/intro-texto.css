@@ -1,0 +1,25 @@
+.intro__texto {
+    width: 50%;
+    padding: 3rem 6rem;
+    display: flex;
+    flex-direction: column;
+    gap: 10pt;
+}
+
+.intro__texto--hola {
+    font-size: 32px;
+}
+
+.intro__texto--nomb {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.intro__texto--desa {
+    font-size: 36px;
+    color: var(--texto-verde);
+}
+
+.intro__texto--desc {
+    font-size: 22px;
+}

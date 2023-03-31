@@ -1,0 +1,6 @@
+.intro {
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    background-color: var(--background-blanco);
+}

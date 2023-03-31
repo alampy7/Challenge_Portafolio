@@ -1,0 +1,7 @@
+.intro__lista {
+    flex-direction: row;
+    justify-content: center;
+    gap: 5rem;
+    width: 100%;
+    color: var(--texto-verde);
+}

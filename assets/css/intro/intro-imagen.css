@@ -1,0 +1,10 @@
+.intro__imagen {
+    background: url(../../images/foto_perfil.jpg);
+    width: 368px;
+    height: 368px;
+    margin: 0 auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+}

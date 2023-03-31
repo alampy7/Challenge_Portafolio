@@ -1,0 +1,7 @@
+.cabecera {
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--background-verde);
+    padding: 0 50px;
+    font-size: 16px;
+}

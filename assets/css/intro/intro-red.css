@@ -1,0 +1,7 @@
+.intro__red {
+    transition: 500ms;
+}
+
+.intro__red:hover {
+    transform: scale(1.2);
+}

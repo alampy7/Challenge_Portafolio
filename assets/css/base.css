@@ -1,0 +1,42 @@
+:root {
+    --background-blanco: #E0E0E0;
+    --background-verde: #82C58D;
+    --background-verde-claro: #C2FFCC;
+
+    --html5-color: #E54D26;
+    --css3-color: #3A99DB;
+    --javas-color: #F7E018;
+    --python-color: #3776AB;
+    --node-color: #026E00;
+    --git-color: #F44D27;
+
+    --texto-color: #464646;
+    --texto-verde: #609168;
+
+    --podkova: 'Podkova', sans-serif;
+}
+
+body {
+    font-family: var(--podkova);
+    color: var(--texto-color);
+}
+
+.correo {
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    padding: 1rem;
+}
+
+.titulo {
+    font-weight: bold;
+    font-size: 48px;
+    padding-bottom: 1rem;
+}
+
+.firma {
+    color: #000000;
+    padding: 1rem 0;
+}
